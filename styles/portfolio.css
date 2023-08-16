@@ -159,3 +159,27 @@ main{
 .resume-content{
     display: flex;
 }
+/* A summary of my resume */
+.resume{
+    background-color: #f8bf75;
+}
+.summary-title{
+    padding: 30px;
+}
+.resume-title{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.degree-title{
+    margin-bottom: 5px;
+}
+.organization-of-degree{
+    margin-bottom: 20px;
+}
+.job-responsibilities{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 0;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
