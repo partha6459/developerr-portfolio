@@ -150,36 +150,55 @@ main{
 }
 /* Resume styles */
 .summary-title{
-    margin-top: 70px;
+    padding: 10px;
+    margin-top: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     font-weight: 700;
     font-size: 35px;
 }
 .resume-content{
-    display: flex;
+    display:flex;
+    padding: 20px;
+    gap: 280px;
 }
 /* A summary of my resume */
 .resume{
     background-color: #f8bf75;
-}
+
 .summary-title{
-    padding: 30px;
+    padding: 40px;
 }
 .resume-title{
+    
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .degree-title{
+    font-weight: 700;
+    color: #474747;
+    font-size: 20px;
     margin-bottom: 5px;
 }
 .organization-of-degree{
-    margin-bottom: 20px;
+    color: #757575;
+    font-size: 18px;
+    font-weight: 600;
 }
 .job-responsibilities{
-    text-align: center;
+    margin-bottom: 20px;
+    color: #757575;
     font-size: 15px;
-    font-weight: 0;
+    font-weight: 400;
     display: flex;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.education-part{
+    
 }
