@@ -166,6 +166,7 @@ main{
 /* A summary of my resume */
 .resume{
     background-color: #f8bf75;
+}
 
 .summary-title{
     padding: 40px;
@@ -205,4 +206,13 @@ main{
 .resume-btn{
     margin-top: 50px;
     text-align: center;
+}
+/* Contact Section */
+
+.icon-size{
+    width: 30px;
+    height: 30px;
+}
+.contact-inf{
+    display: flex;
 }
